@@ -1,6 +1,3 @@
-## **Project Name**
-**Natural Disasters Analytics**
-
 # **Natural Disasters Analytics: Wildfires and Earthquakes Data Visualization**
 
 ## **Project Overview**

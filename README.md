@@ -29,10 +29,3 @@ This project focuses on analyzing and visualizing natural disasters, specificall
 
 ## **Acknowledgments**
 This project was completed as part of the course **IE6600 Computation and Visualization** under the guidance of **Professor Satwik Kamarthi**.
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-This README file provides an organized overview of your project, allowing others to understand its purpose, datasets, and visualizations while making it easy to set up and run.
